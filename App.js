@@ -9,7 +9,7 @@ export default function App() {
       </div>
       <div className="content">
         <h2>
-          It&apos;s me <strong>Name !</strong>
+          It&apos;s me <strong>Shweta Surbhi!</strong>
         </h2>
         <h5>
           Hey there! I enjoy web development very much, it makes me feel artsy
