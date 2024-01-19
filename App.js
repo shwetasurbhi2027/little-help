@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="container">
       <div className="imageContainer">
-        <img src="" alt="" />
+        <img src="" alt="https://images.unsplash.com/photo-1598257006458-087169a1f08d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2Zlc3Npb25hbCUyMHdvbWFufGVufDB8fDB8fHww" />
       </div>
       <div className="content">
         <h2>
